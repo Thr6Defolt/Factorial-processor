@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\bin\Debug\net6.0\Factorial processor.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\bin\Debug\net6.0\Factorial processor.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\bin\Debug\net6.0\Factorial processor.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\bin\Debug\net6.0\Factorial processor.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\bin\Debug\net6.0\Factorial processor.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\Factorial processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\Factorial processor.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\Factorial processor.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\Factorial processor.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\Factorial processor.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\refint\Factorial processor.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\Factorial processor.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\Factorial processor.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Factorial processor\Factorial processor\obj\Debug\net6.0\ref\Factorial processor.dll
